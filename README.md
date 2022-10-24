@@ -20,3 +20,4 @@
             Github Page https://github.com/agassiot/
             Github Repository https://github.com/agassiot/day-scheduler
             Live Link https://agassiot.github.io/day-scheduler/
+<img width="1486" alt="scheduler-pic" src="https://user-images.githubusercontent.com/61921580/197535102-9632dff5-e2c1-48d2-8586-4c0faaa5f73a.png">
