@@ -1,0 +1,93 @@
+{
+      "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+      "vim.easymotionMarkerBackgroundColor": "#9cf5f0",
+      "materialTheme.accent": "Breaking Bad",
+      "workbench.colorTheme": "Brogrammer Plus",
+      "workbench.preferredDarkColorTheme": "Brogrammer Plus",
+      "vim.statusBarColors.normal": "9cf5f0",
+      "workbench.colorCustomizations": {
+      "editorBracketMatch.background": "#ff00a6",
+      "editor.lineHighlightBorder": "#079c0a3d",
+      "editorLineNumber.foreground": "#dc9909cb",
+      "editorLineNumber.activeForeground": "#ff00a6",
+      "editorCursor.foreground": "#9cf5f0",
+      "terminalCursor.foreground": "#9cf5f0"
+            },
+      "editor.bracketPairColorization.enabled": false,
+      "editor.tokenColorCustomizations": {
+        "[Brogrammer Plus]": {
+            "strings": "#e5d32e",
+           "textMateRules": [
+            {
+              "scope": "storage.type.function.js",
+              "settings": {
+                  "foreground": "#b41dcf",
+                  "fontStyle": "italic bold"
+                },
+              },
+            {
+              "scope": "meta.block",
+              "settings": {
+                  "foreground": "#68f8f3"
+            }
+          },
+             {
+              "scope": "keyword.control.conditional.js",
+              "settings": {
+                  "foreground": "#f625c2",
+                  "fontStyle": "bold"
+              }
+            },
+            {
+              "scope": "storage.type.function.arrow.js",
+              "settings": {
+                  "foreground": "#b41dcf",
+                  "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": "keyword.operator",
+              "settings": {
+                  "foreground": "#d11e1e",
+                  "fontStyle": "italic bold"
+              }
+            },
+            {
+              "scope": "meta.tag",
+              "settings": {
+                  "foreground": "#2592ff",
+              }
+            },
+            {
+              "scope": "meta.tag.structure.p.start.html",
+              "settings": {
+                  "foreground": "#f949ff",
+              }
+            },
+            {
+              "scope": "meta.tag.structure.p.end.html",
+              "settings": {
+                  "foreground": "#f949ff",
+              }
+            },
+            {
+              "scope": "punctuation.separator",
+              "settings": {
+                  "foreground": "#8819ffcc",
+                  "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": "entity.name.tag",
+              "settings": {
+                  "foreground": "#254dff",
+              }
+            }
+           ], 
+            "comments": "#c74e54e1",
+            }
+      },
+     
+      
+      
+}
