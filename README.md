@@ -19,4 +19,4 @@
             ### Links
             Github Page https://github.com/agassiot/
             Github Repository https://github.com/agassiot/day-scheduler
-            Live Link
+            Live Link https://agassiot.github.io/day-scheduler/
